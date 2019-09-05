@@ -1,0 +1,11 @@
+Basics of XPath :
+
+https://www.google.com/search?client=ubuntu&channel=fs&q=xpath+basics&ie=utf-8&oe=utf-8
+
+https://www.w3schools.com/xml/xpath_intro.asp
+
+https://devhints.io/xpath
+
+https://dev.to/kreopelle/nokogiri-scraping-walkthrough-alk
+
+example : https://www.labnol.org/internet/google-web-scraping/28450/
